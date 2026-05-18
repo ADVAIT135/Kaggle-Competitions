@@ -1,5 +1,6 @@
 # 🏎️ F1 Pit Stops Prediction using LightGBM
 
+## Kaggle Notebook Link - https://www.kaggle.com/code/advaitchavan/f1-pit-stops
 ## Project Overview
 
 This project leverages advanced machine learning techniques to predict the probability of a Formula 1 driver making a pit stop on the next lap. Using a LightGBM classifier trained on real F1 race strategy data, the model achieves a **ROC AUC score of 0.945**, demonstrating strong predictive performance.
